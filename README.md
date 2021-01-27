@@ -1,5 +1,5 @@
 
-<h1 align="center"> Emy Landim :rocket: </h1>
+<h1 align="center"> Emy Landim </h1>
 
 > Wherever you go, go with all your heart :black_heart:
 
