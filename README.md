@@ -1,9 +1,9 @@
 # 👋 Hello world
 
-Hello, my name is Emilly, and I'm a 26-year-old full-stack developer with over 7 years of experience (most of which have been spent solving bugs 🐛 haha). </br>
+Hello, my name is Emilly and I'm a 26-year-old full-stack developer with over 7 years of experience (most of which have been spent solving bugs 🐛 haha). </br>
 Now, let me start my programming story in the best way to tell tales: 
 ### Once upon a time... 🧚
-There was a 15-year-old girl who had a Tumblr and loved to personalize it, spending days and days learning HTML and CSS to turn that simple site into a beautiful diary of her life. She started a three-year IT course alongside high school, where she explored an entirely new world, learning several languages, agile methodologies and design. It was during that time that the girl found the career of her dreams.
+A 15-year-old girl who had a Tumblr and loved to personalize it, spending days and days learning HTML and CSS to turn that simple site into a beautiful diary of her life. As she enjoyed learning about it, she decided to start a three-year IT course alongside high school, where she explored an entirely new world, learning several programming languages, agile methodologies and design. It was during that time that the girl found the career of her dreams.
 
 Now, with a degree in Computer Science, a MBA in Full Stack Development and a lot of experiences from incredible companies she's been a part of, this girl has not just reached a happy ending but continues to embark on an amazing and successful adventure journey that doesn't end here. 🚀
 
